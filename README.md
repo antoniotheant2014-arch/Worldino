@@ -8,3 +8,6 @@ Package not complete can not be given
 copyright is strictly forbidden
 make sure to have the following including others that have not been listed: npm, homebrew, preferibly electron, preferibly electron packager and node.js
 thank you for downloading, installing and testing the .app
+version 29.4.6
+make sure to have electron(it will download via .app)
+downloading, installing, compiling, building and running means you have agreed to everything over and under
